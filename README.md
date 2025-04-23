@@ -7,7 +7,7 @@ This repository hosts the HTML-based privacy policy that is required for Discord
 
 ## **Live Privacy Policy Link**
 You can view the hosted privacy policy here:  
-**[trident-privacy-policy](https://yourusername.github.io/trident-privacy-policy)**
+**[trident-privacy-policy](https://github.com/Sgdufjfjcjfjshrjf/Trident-Privacy-policy-/tree/main)**
 
 ---
 
